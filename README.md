@@ -1,13 +1,11 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
-<h3 align="center">Common-statistical-hypothesis-tests </h3>
+<h3 align="center">Common-statistical-hypothesis-tests 📊</h3>
 
   <p align="center">
     Department of Bioinformatics, IBB, University of Tehran
@@ -15,29 +13,24 @@
   </p>
 </div>
 
-
 <!-- ABOUT THE PROJECT -->
 ## ROADMAP
-One-sample t-test, Two-sample t-test, Paired t-test, Wilcoxon signed-rank test, Mann-Whitney-Wilcoxon, Pearson's chi-squared test, Fisher's Exact Test, Analysis of variance (the F-test), Hypergeometric test, Pearson correlation, Spearman correlation test, 
+
+One-sample t-test, Two-sample t-test, Paired t-test, Wilcoxon signed-rank test, Mann-Whitney-Wilcoxon, Pearson's chi-squared test, Fisher's Exact Test, Analysis of variance (the F-test), Hypergeometric test, Pearson correlation, Spearman correlation test
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Languages Used
+## Languages Used 💻
 
 R Packages 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
-## Contact
+## Contact 📧
 
 Fereshteh Noroozi - [@LinkedIn](https://ir.linkedin.com/in/fereshteh-noroozi-a90886118?original_referer=https%3A%2F%2Fwww.google.com%2F) 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -45,8 +38,6 @@ Fereshteh Noroozi - [@LinkedIn](https://ir.linkedin.com/in/fereshteh-noroozi-a90
 Department of Bioinformatics, IBB, University of Tehran
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
